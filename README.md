@@ -120,7 +120,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 ### 📚 Books & Courses
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| **Product Name** | Example: Programming book or online learning course | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2 2025 |
+| [**Vue School**](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Vue School offers premium video courses to help you master Vue.js, Nuxt, and modern frontend development from industry experts. | **Up to 60% OFF** | Now – Dec 2 2025 |
 
 ---
 
@@ -185,4 +185,5 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
