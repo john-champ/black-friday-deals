@@ -92,6 +92,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Dux-Soup**](https://www.dux-soup.com/black-friday-2025) | LinkedIn automation tool that helps you generate leads, engage prospects, and manage outreach efficiently. | 25% OFF All Purchases Site-wide (Coupon: `BLCKFRDYDUX25`) | Nov 10 – Nov 30, 2025 |
 | [**DevWorkspace Pro**](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2025 |
 | [**Vue PDF Viewer**](https://www.vue-pdf-viewer.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | Vue PDF Viewer is a powerful PDF viewer for Vue 3 apps that supports keyword highlights, programmatic control, customization and annotations. | 30% off Viewer Licenses & 40% off Viewer+Annotation Licenses | Nov 17 – Dec 1, 2025 |
+| [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
 
 
